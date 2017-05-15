@@ -1,0 +1,15 @@
+{
+  "name": "sar-tracker",
+  "version": "1.0.0",
+  "description": "Tracker for Search & Rescue vehicles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ágúst Ingi Kjartansson",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "gps": "^0.2.0",
+    "serial-obd": "^0.2.1"
+  }
+}
